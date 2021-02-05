@@ -8,7 +8,7 @@ Pewlett Hackard is a large company, boasting several thousand employees, and it'
 This analysis will assist Pewlett Hackard to generate a list of all employees eligible for the retirement package. The employee data I needed was only available in six .csv files, but leadership finally decided to update the company's methods and instead use SQL. Therefore, I built an employee database with SQL by applying my data modeling, engineering and analysis skills.
 
 ## Resources
-- **Data Sources**: PH-Employee Database created from departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv & titles.csv
+- **Data Sources**: PH-Employee Database created from `departments.csv`, `dept_emp.csv`, `dept_manager.csv`, `employees.csv`, `salaries.csv` & `titles.csv`
 - **Software**: PostgreSQL 11.10, Git Bash 2.29.2, Visual Studio Code 1.52.1
 
 ## Challenge Overview
